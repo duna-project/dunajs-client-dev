@@ -1,0 +1,29 @@
+{
+  "name": "dunajs-client-dev",
+  "version": "0.0.1",
+  "description": "Duna framework javascript client development support",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duna-project/dunajs-client-dev.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/duna-project/dunajs-client-dev/issues"
+  },
+  "homepage": "https://github.com/duna-project/dunajs-client-dev#readme",
+  "dependencies": {
+    "dunajs-client": "0.0.4",
+    "nock": "^9.0.9"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  }
+}
