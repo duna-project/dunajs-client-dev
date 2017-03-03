@@ -1,6 +1,6 @@
 {
   "name": "dunajs-client-dev",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Duna framework javascript client development support",
   "main": "index.js",
   "directories": {
